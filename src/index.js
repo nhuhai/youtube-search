@@ -8,7 +8,7 @@ import SearchBar from './components/search-bar';
 // ReactDOM.render(<App />, document.getElementById('root'));
 // registerServiceWorker();
 
-const API_KEY = 'AIzaSyBGC8P3FA40zy94S217tbCR3uvXRCDFb_g';
+// const API_KEY = 'AIzaSyBGC8P3FA40zy94S217tbCR3uvXRCDFb_g';
 
 // Create a new component. This component should produce some HTML
 const App = () => {
