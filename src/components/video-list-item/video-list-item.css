@@ -1,5 +1,7 @@
 .video-list-item {
   cursor: pointer;
+  list-style-type: none;
+  margin-bottom: 5px;
 }
 
 .video-list-item:hover {
